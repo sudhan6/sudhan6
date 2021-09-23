@@ -2,8 +2,9 @@
 <h3>•I'm aspiring 🔭️ Front-End Web Developer currently learning 🌱 ReactJs Half Finished 🧑‍💻 | I'm a Epistemophile & I love to learn new 💻 Technologies
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
+  
 
-
+<h2 align="left">About me ✌️</h2>
 - 🔭 I’m currently working on a Full stack Zomato clone website. 
 - 🌱 I’m currently learning Full stack web devlopment and DSA.
 - 👯 I’m looking to collaborate on open source web project. 
