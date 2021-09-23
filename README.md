@@ -1,8 +1,6 @@
 <h1 align="center">Hello 👋, I'm Sudhan R</h1>
 <h3>•I'm aspiring 🔭️ Front-End Web Developer currently learning 🌱 ReactJs Half Finished 🧑‍💻 | I'm a Epistemophile & I love to learn new 💻 Technologies
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/</h3> <br><br>
 
-![](https://komarev.com/ghpvc/?username=dharun-narayanan&color=brightgreen&style=flat&label=PROFILE+VIEWS)<br>
 
 
 <img align="left" width="260" height="260" src="">
