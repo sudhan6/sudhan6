@@ -20,7 +20,7 @@ alt="coding" src="https://camo.githubusercontent.com/9afefcbff89a66b497e62314640
 
 - 🔭 I’m currently working on a NLP Based Project.
 - 🌱 I’m currently learning Machine Learning .
-- 👯 I’m looking to collaborate on open source Machine Learning and AI projects.
+- 👯 I’m looking to collaborate on open source ML and AI projects.
 - 💬 Ask me about **C++ | JAVA | JavaScript**
 - 📫 How to reach me **rbsudhan2001@gmail.com** 
 - :man_technologist: You can also check out my portfolio at: https://sudhan-r.netlify.app
